@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMS Hosting is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smshosting.it/
+SMS Hosting provides an integrated communication platform for businesses, offering SMS, RCS, WhatsApp, email, and marketing automation tools. Their services include contact management, landing pages, loyalty cards, bookings, digital coupons, and analytics. The platform targets retailers, hotels, restaurants, NGOs, and public entities, delivering multi‑channel messaging and automation to enhance customer engagement and operational efficiency.
+
+**Areas:** Communication · Messaging · Marketing · SMS · Multi-channel
+
+## SMS Hosting on APIs.io
+
+Everything profiled for SMS Hosting is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sms-hosting/](https://apis.io/providers/sms-hosting/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [SMS API](https://apis.io/apis/sms-hosting/sms-api/) — SMS API semplici e complete con esempi e librerie pronte all'uso in diversi linguaggi per invio SMS. Versioni REST, HTTP e SOAP disponibili.
+- [SMS Hosting API](https://apis.io/apis/sms-hosting/sms-hosting-api/) — SMS Hosting API as documented publicly: 9 operations. Contract generated from the documentation by API Evangelist (2026-11-16); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetRestApiVerifyCheckResponse](https://apis.io/schemas/sms-hosting/sms-hosting-get-rest-api-verify-check-response/)
+- [GetRestApiVerifyCommandResponse](https://apis.io/schemas/sms-hosting/sms-hosting-get-rest-api-verify-command-response/)
+- [PostRestApiVerifyCommandRequest](https://apis.io/schemas/sms-hosting/sms-hosting-post-rest-api-verify-command-request/)
+- [PostRestApiVerifyCommandResponse](https://apis.io/schemas/sms-hosting/sms-hosting-post-rest-api-verify-command-response/)
+- [PostRestApiVerifySendRequest](https://apis.io/schemas/sms-hosting/sms-hosting-post-rest-api-verify-send-request/)
+- [PostRestApiVerifySendResponse](https://apis.io/schemas/sms-hosting/sms-hosting-post-rest-api-verify-send-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sms Hosting Context](https://apis.io/jsonld/sms-hosting/sms-hosting-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SMS Hosting API Rules](https://apis.io/rules/sms-hosting/sms-hosting-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SMS Hosting Domain Security](https://apis.io/security/sms-hosting/sms-hosting-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SMS Hosting Plans Pricing](https://apis.io/plans/sms-hosting/sms-hosting-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smshosting.it/)
+- [Documentation](https://apidoc.smshosting.it/)
+- [Sign up](https://cloud.smshosting.it/sms/signupInit.ic)
+- [Support](https://help.smshosting.it/)
+- [Blog](https://www.smshosting.it/it/blog)
+- [Privacy policy](https://www.smshosting.it/it/privacy-smshosting)
+- [GitHub](https://github.com/smshosting)
+
+## API Evangelist rating
+
+**Kin Score 37.2** — thin · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 23.7 |
+
+**Agent readiness 23.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.5** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sms-hosting/](https://apis.io/providers/sms-hosting/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SMS Hosting: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sms-hosting/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
